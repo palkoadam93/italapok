@@ -14,3 +14,17 @@ a:hover {
     background-color: purple;
     color: white;
 }
+
+section {
+    overflow: auto;
+}
+
+.left {
+    width: 45%;
+    float: left;
+}
+
+.right {
+    width: 45%;
+    float: right;
+}
